@@ -1,1 +1,12 @@
-{"main":"american-flights-api.raml","name":"American Flights API","classifier":"raml","tags":[],"groupId":"547ff51c-2379-4833-aa4c-d1c5c4d7236e","assetId":"american-flights-api","version":"1.0.2","apiVersion":"V1","originalFormatVersion":"1.0","dependencies":[]}
+{
+  "main" : "american-flights-api.raml",
+  "name" : "American Flights API",
+  "classifier" : "raml",
+  "tags" : [ ],
+  "groupId" : "547ff51c-2379-4833-aa4c-d1c5c4d7236e",
+  "assetId" : "american-flights-api",
+  "version" : "1.0.3",
+  "apiVersion" : "V1",
+  "dependencies" : [ ],
+  "originalFormatVersion" : "1.0"
+}
