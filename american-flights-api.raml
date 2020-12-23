@@ -1,7 +1,7 @@
 #%RAML 1.0
 title: American Flights API
 types:
-  AmericanFlight: !include /AmericanFlightDataType1.raml
+  AmericanFlight: !include /exchange-modules/AmericanFlightDataType1.raml
 /flights:
   get:
     queryParameters:
@@ -17,7 +17,7 @@ types:
          application/json:
            type: AmericanFlight[]
            examples:
-              output: !include /AmericanFlightExample1.raml      
+              output: !include /exchange-modules/AmericanFlightExample1.raml    
            
   post:
    body:
